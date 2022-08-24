@@ -1,0 +1,11 @@
+*pycache__/*
+*.pyc
+/.ignore/*
+/.idea/*
+/archive/*
+/export/*.glb
+/app/static/archive*
+/app/static/export/*
+/temp/*
+/upload/*.csv
+*venv/*
